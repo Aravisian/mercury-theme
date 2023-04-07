@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=mercury
+Comment=A theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=mercury
+MetacityTheme=mercury
+ButtonLayout=menu:minimize,maximize,close
