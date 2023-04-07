@@ -1,0 +1,2 @@
+# mercury-theme
+Mercury-GTK
