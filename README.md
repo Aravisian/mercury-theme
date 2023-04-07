@@ -16,3 +16,4 @@ sudo apt-get update && sudo apt install mercury
 
 Bionic, Focal and Hirsute repositories.
 Or if on a rolling release, you can use the .deb self installer:
+https://launchpad.net/~aravisian/+archive/ubuntu/gtk-theming/+files/mercury_1.1-11_all.deb
